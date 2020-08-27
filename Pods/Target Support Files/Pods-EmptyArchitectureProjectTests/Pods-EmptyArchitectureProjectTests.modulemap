@@ -1,0 +1,6 @@
+framework module Pods_EmptyArchitectureProjectTests {
+  umbrella header "Pods-EmptyArchitectureProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
